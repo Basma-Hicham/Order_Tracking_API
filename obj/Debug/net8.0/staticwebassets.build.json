@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ruwu3rIFOeA+IDwDv/oUUarFQAGaEqQ3oypMm0sWVdU=",
+  "Source": "OrderTrackingApi",
+  "BasePath": "_content/OrderTrackingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
